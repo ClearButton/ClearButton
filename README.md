@@ -1,4 +1,4 @@
-# Welcome on my Github profile
+# :cl: Welcome on my Github profile
 
 - 👋 Hi, my name is Christian Lajouanie
 - :briefcase: I am a Procurement expert that decided to specialize in data. Reach me out on [LinkedIn](https://www.linkedin.com/in/christianlajouanie "The best Procurement data expert !")!
