@@ -1,5 +1,5 @@
 # Welcome on my Github profile !
-- 👋 Hi, my name is Christian Lajouanie.
+- 👋 Hi, my name is Christian Lajouanie :cl:
 - :briefcase: I am a Procurement expert that decided to specialize in data. Reach me out on [LinkedIn](https://www.linkedin.com/in/christianlajouanie "The best Procurement data expert !")!
 - :train: In 2022, I decided to learn Python and Data Science at [Le Wagon](https://www.lewagon.com/)! Batch :hash::eight::zero::two:
 - :whale: You can have a look at my final project [Deep Dive](https://clearbutton-lewagon-deepdive-front-app-o07cei.streamlitapp.com/).
