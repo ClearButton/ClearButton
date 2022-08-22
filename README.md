@@ -4,7 +4,7 @@
 - :train: In 2022, I decided to learn Python and Data Science at [Le Wagon](https://www.lewagon.com/)! Batch :hash::eight::zero::two:
 - :whale: You can have a look at my final project [Deep Dive](https://clearbutton-lewagon-deepdive-front-app-o07cei.streamlitapp.com/).
 - :computer: In the world of developers, you can find me under the pseudonym @ClearButton
-- :beginner: Still a beginner in machine learning / deep learning
+- :beginner: Still a beginner in code / machine learning / deep learning
 - :frog: I'm French! :large_blue_circle::white_circle::red_circle:  
 
 # :cl:
