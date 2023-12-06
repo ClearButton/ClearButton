@@ -5,7 +5,7 @@
 - :whale: You can have a look at my final project [Deep Dive](https://github.com/datastronaut/lewagon-deepdive).
 - :computer: In the world of developers, you can find me under the pseudonym @datastronaut or @datastr0naut
 - :beginner: Still a beginner in coding / machine learning / deep learning
-- :frog: I'm French! :large_blue_circle::white_circle::red_circle:  
+- 🐸 I'm French! 🔵⚪🔴  
 
 # :astronaut:
 
